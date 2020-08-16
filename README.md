@@ -1,16 +1,58 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# CLOTHING STORE - E Commerce application
 
-## Available Scripts
+**AF ( 3rd year 1 semester project)**
 
-In the project directory, you can run:
+```
+git clone https://github.com/tmKamal/clothing-store-front-end
+```
 
-### `npm start`
+## Getting started
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### ⏳ Installation
+run `npm install`
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+### ▶ Start
+run `npm start`
+
+## Screens
+### Client
+**Cart**
+
+![cart](https://i.imgur.com/hLfsj5K.png)
+
+**My Orders**
+![Orders](https://i.imgur.com/ati0GED.png)
+
+**Review product**
+
+![Rating](https://i.imgur.com/zsMmrdu.png)
+
+**Checkout**
+![Checkout](https://i.imgur.com/kZskVCG.png)
+
+**Wishlist**
+![Wishlist](https://i.imgur.com/2RmAeUh.png)
+
+**Product view**
+![Product view](https://i.imgur.com/eogahYJ.png)
+
+### Admin
+
+**View products**
+![Admin products](https://i.imgur.com/YKuOlqs.jpg)
+
+**Add Products**
+![Add product](https://imgur.com/3uqaZQj.jpg)
+
+**Add Category**
+![Add Category](https://imgur.com/ZWwbICZ.jpg)
+
+**Add manager**
+![Add manager](https://imgur.com/Onq2PQY.jpg)
+
+**Change password**
+![Change password](https://imgur.com/QDKyRvS.jpg)
+
 
 ### `npm test`
 
